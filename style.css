@@ -31,6 +31,22 @@ margin: 20px auto;
 width: 50%;
 }
 
+.SocialLinks h3
+{
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.SocialLinks
+{
+  text-align: center;
+margin-bottom: 20px;
+}
+a:link 
+{
+  color: rgb(166, 255, 249);
+}
+
 .DWHSteam 
 {
   text-align: center;
