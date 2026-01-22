@@ -2,6 +2,10 @@ body
 {
 background: #111;
 color: #ececec;
+a:link 
+{
+  color: rgb(166, 255, 249);
+}
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .logo 
@@ -42,10 +46,7 @@ width: 50%;
   text-align: center;
 margin-bottom: 20px;
 }
-a:link 
-{
-  color: rgb(166, 255, 249);
-}
+
 
 .DWHSteam 
 {
