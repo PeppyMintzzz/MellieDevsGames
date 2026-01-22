@@ -51,7 +51,11 @@ width: 50%;
 {
   text-align: center;
 }
-
+.DWHSteam h1
+{
+  text-align: center;
+margin: 0px auto;
+}
 .About h2
 {
   text-align: center;
