@@ -39,8 +39,7 @@ width: 50%;
 .SocialLinks h3
 {
   text-align: center;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin: 0px auto;
 }
 .SocialLinks
 {
