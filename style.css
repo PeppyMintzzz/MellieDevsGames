@@ -154,6 +154,37 @@ margin: 30px auto;
 width: 50%;
 }
 
+.Partners
+{
+  color: #eee(99.336% 0.00305 0.00083);
+  text-align: center;
+  margin-top: -10px;
+  margin-bottom: -10px;
+}
+
+
+.PartnerLogos 
+{
+  display: flex;     
+  justify-content: center;
+  align-items: center;   
+  gap: 30px;             
+}
+.PartnerLogos img 
+{
+
+  max-height: 70px;   
+  width: auto;         
+}
+
+.Divider5
+{
+border: none;
+height: 2px;
+background: #eee;
+margin: 30px auto;
+width: 50%;
+}
 
 .About h2
 {
